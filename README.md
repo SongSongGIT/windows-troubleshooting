@@ -1,2 +1,2 @@
-# windows-troubleshooting
-Windows 应用故障排查与修复记录
+# windows-chatgpt-troubleshooting
+Windows -chatgpt桌面版- 应用故障排查与修复记录
